@@ -1,0 +1,17 @@
+[project]
+name = "cgcnn-practice"
+version = "0.1.0"
+description = "Personal CGCNN learning workspace"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "torch>=2.6,<3",
+    "numpy>=2,<3",
+    "matplotlib>=3.9,<4",
+    "ase>=3.24,<4",
+    "networkx>=3.4,<4",
+    "jupyterlab>=4.3,<5",
+    "nbclient>=0.10,<1",
+]
+
+[tool.uv]
+package = false

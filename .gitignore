@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.bootstrap.py
+.verify.py
+reference/
+data/
+results/
+*.pt
+*.pth

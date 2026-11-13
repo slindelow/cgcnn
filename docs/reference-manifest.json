@@ -1,0 +1,24 @@
+{
+  "source": "https://gitlab.com/cam-ml/tutorials/-/tree/main/notebooks/04-cgcnn",
+  "commit": "47e66a4fbdbdbf1138044899119ae0d14cd4b4ac",
+  "files": [
+    {
+      "name": "graph-networks.ipynb",
+      "url": "https://gitlab.com/api/v4/projects/cam-ml%2Ftutorials/repository/files/notebooks%2F04-cgcnn%2Fgraph-networks.ipynb/raw?ref=47e66a4fbdbdbf1138044899119ae0d14cd4b4ac",
+      "sha256": "8ee4751bccb5ec85dd6452df68ad896fee966b24265359808190b45cbb7b4ef6",
+      "bytes": 50651
+    },
+    {
+      "name": "utils.py",
+      "url": "https://gitlab.com/api/v4/projects/cam-ml%2Ftutorials/repository/files/notebooks%2F04-cgcnn%2Futils.py/raw?ref=47e66a4fbdbdbf1138044899119ae0d14cd4b4ac",
+      "sha256": "200b49dc8ec8cd32caf1e56ebcff23c3a6f5dcfe9b134cabfa0fff9b3cb3f2c0",
+      "bytes": 9726
+    },
+    {
+      "name": "bulk-modulus-dataset.json",
+      "url": "https://gitlab.com/api/v4/projects/cam-ml%2Ftutorials/repository/files/notebooks%2F04-cgcnn%2Fbulk-modulus-dataset.json/raw?ref=47e66a4fbdbdbf1138044899119ae0d14cd4b4ac",
+      "sha256": "46dbd54c56ccba9da2b4245fbf249295e8438eec78990ec90dbd9277cef49d2e",
+      "bytes": 5272161
+    }
+  ]
+}
